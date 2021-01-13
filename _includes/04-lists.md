@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. New York
+2. Los Angeles
+3. Chicago
+4. Philadelphia
+5. Dallas
